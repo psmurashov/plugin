@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <addon id="plugin.video.lord" version="1.2.0" name="LorD" provider-name="***">
+        <requires>
+            <import addon="xbmc.python" version="2.25.0"/>
+        </requires>
+        <extension point="xbmc.python.pluginsource">
+            <provides>video</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="ru">Lord video plugin</summary>
+            <description lang="ru">Дополнение для онлайн-кинотеатра</description>
+            <language>ru</language>
+            <platform>all</platform>
+            <license>GPL-3.0-only</license>
+            <source>https://github.com/vlmaksime/plugin.video.filmix</source>
+            <news>***</news>
+            <assets>
+                <icon>icon.png</icon>
+                <fanart>fanart.jpg</fanart>
+            </assets>
+        </extension>
+    </addon>

@@ -108,7 +108,7 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/FAN_HD.png" group-title="Кино и сериалы", FAN HD
 http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcwOTQ2NjM2OCwiaHdpZCI6ImViNGUxZTk3Mzc2OTRlYTc3ZjExZDIyZjhkNTJiY2ZlZTI1Yjc2YzQyY2I0NDEzMDZiMDNlNWExYTFiZmFhMWMiLCJsYXN0X3JlcV9kYXRlIjoxNzA4ODYxNTY4LCJzZXNzaW9uX2lkIjoiNTYwNjI3ZGYxOGYxOTM0N2Q0ZTU0ZDVhNTBjYzM3ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bc0v7rOA71m1BGCU5DEd59x5Jt8JV_xitkahKOabI3k
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/23" group-title="Кино и сериалы",Еврокино
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/23.png" group-title="Кино и сериалы",Еврокино
 http://109.239.208.82:80/eurokino/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Bollywood_HD_orig.png" group-title="Кино и сериалы",Bollywood HD
@@ -151,10 +151,10 @@ https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Tiji_Tv_orig.png" group-title="Детские",TiJi
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://raw.githubusercontent.com/psmurashov/plugin/main/img/animetv_2.png"  group-title="Детские",Anime TV
+#EXTINF:-1 tvg-logo="hhttps://raw.githubusercontent.com/psmurashov/plugin/main/img/36.png"  group-title="Детские",Anime TV
 http://158.101.194.132:8080/channel/2158672e/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 
-#EXTINF:-1  tvg-logo="hhttps://raw.githubusercontent.com/psmurashov/plugin/main/img/animekids_logo_cr_bk_1.png" group-title="Детские", Anime KIDS
+#EXTINF:-1  tvg-logo="hhttps://raw.githubusercontent.com/psmurashov/plugin/main/img/37.png" group-title="Детские", Anime KIDS
 http://158.101.194.132:8080/channel/6baef281/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/28.png" group-title="Детские",КАПИТАН ФАНТАСТИКА HD

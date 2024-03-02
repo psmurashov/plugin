@@ -12,7 +12,7 @@ http://188.113.190.15/202/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/viju_com.png" group-title="Кино и сериалы",VIJU+ COMEDY HD
 http://188.113.190.15/203/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/FOX HD PL.png" group-title="Кино и сериалы",Fox Life
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/FOX_HD_PL.png" group-title="Кино и сериалы",Fox Life
 https://woobl.ru/hls987/Fox_Life.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/ba/A1_%28%D1%81_26.12.2022%29.png/revision/latest/scale-to-width-down/1000?cb=20230206143713&path-prefix=ru" group-title="Кино и сериалы",Amedia 1 HD
@@ -169,21 +169,3 @@ https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/NickToons.png" group-title="Детские",Nicktoons
 group-title="Kids",Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Дикая рыбалка HD orig.png" group-title="Познавательные",Дикая рыбалка HD
-http://158.101.194.132:8080/channel/7deab33d/index.m3u8?q=a024650819fbec7a200f6b1072e02f16
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Диалоги о рыбалке HD.png" group-title="Познавательные",Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Охотник и Рыболов HD orig.png" group-title="Познавательные",Охотник и рыболов HD
-https://stream-msk-07.ott.tricolor.tv:443/dtv/id169_MSKSG-PVR-1--HD_Oh_Rbl/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcwOTQ2NjM2OCwiaHdpZCI6ImViNGUxZTk3Mzc2OTRlYTc3ZjExZDIyZjhkNTJiY2ZlZTI1Yjc2YzQyY2I0NDEzMDZiMDNlNWExYTFiZmFhMWMiLCJsYXN0X3JlcV9kYXRlIjoxNzA4ODYxNTY4LCJzZXNzaW9uX2lkIjoiNTYwNjI3ZGYxOGYxOTM0N2Q0ZTU0ZDVhNTBjYzM3ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bc0v7rOA71m1BGCU5DEd59x5Jt8JV_xitkahKOabI3k
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Рыболов HD.png" group-title="Познавательные",Рыболов
-https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcwOTQ2NjM2OCwiaHdpZCI6ImViNGUxZTk3Mzc2OTRlYTc3ZjExZDIyZjhkNTJiY2ZlZTI1Yjc2YzQyY2I0NDEzMDZiMDNlNWExYTFiZmFhMWMiLCJsYXN0X3JlcV9kYXRlIjoxNzA4ODYxNTY4LCJzZXNzaW9uX2lkIjoiNTYwNjI3ZGYxOGYxOTM0N2Q0ZTU0ZDVhNTBjYzM3ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bc0v7rOA71m1BGCU5DEd59x5Jt8JV_xitkahKOabI3k
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Глазами Туриста HD orig.png"  group-title="Познавательные",Глазами туриста HD
-https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8

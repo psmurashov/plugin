@@ -1,41 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/.sci-fi.svg/revision/latest/scale-to-width-down/250?cb=20210624152408" group-title="Кино и сериалы",.sci-fi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/sci-fi.png" group-title="Кино и сериалы",.sci-fi
 http://185.37.150.40:8092/Axn_skyfi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/2a5e3366-7e0e-457f-aec4-d32477e6be6f/logos/9yv9vbjtuzbq4t6ttrg54ihpac73?w=600" group-title="Кино и сериалы",VIJU+ PREMIERE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/viju_pem.png" group-title="Кино и сериалы",VIJU+ PREMIERE HD
 http://188.113.190.15/201/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/3c43c6e4-7f72-490d-aa4e-393258533850/logos/gpc9rin6104xp4q4xx9bsdhwo92p?w=600" group-title="Кино и сериалы",VIJU+ MEGAHIT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/viju_meg.png" group-title="Кино и сериалы",VIJU+ MEGAHIT HD
 http://188.113.190.15/202/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/efe8f9f7-83b4-4858-b92f-75c9bd04d84d/logos/whxlnlilx1p46yeiqga7k0o0g0vm?w=600" group-title="Кино и сериалы",VIJU+ COMEDY HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/viju_com.png" group-title="Кино и сериалы",VIJU+ COMEDY HD
 http://188.113.190.15/203/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxLife.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest/scale-to-width-down/300?cb=20191201074855" group-title="Series",Fox Life
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/FOXLife.png" group-title="Series",Fox Life
 https://woobl.ru/hls987/Fox_Life.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/ba/A1_%28%D1%81_26.12.2022%29.png/revision/latest/scale-to-width-down/1000?cb=20230206143713&path-prefix=ru" group-title="Кино и сериалы",Amedia 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/A1.png" group-title="Кино и сериалы",Amedia 1 HD
 http://185.37.150.40:8092/Amedia1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/2d/A2_%28%D1%81_26.12.2022%29.png/revision/latest/scale-to-width-down/1000?cb=20221226150727&path-prefix=ru" group-title="Кино и сериалы",Amedia 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/A2.png" group-title="Кино и сериалы",Amedia 2 HD
 http://185.37.150.40:8092/Amedia2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/46/Hit_%28%D1%81_26.12.2022%29.png/revision/latest/scale-to-width-down/1000?cb=20221226143952&path-prefix=ru" group-title="Кино и сериалы",Amedia Hit HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Hit.png" group-title="Кино и сериалы",Amedia Hit HD
 http://92.242.110.52:9835/udp/238.1.11.3:1234
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Amedia_Premium_P22.svg/revision/latest?cb=20230304073615" group-title="Кино и сериалы",Amedia Premium HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/amedia_premium_hd.gif" group-title="Кино и сериалы",Amedia Premium HD
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Kineko_I.svg/revision/latest?cb=20220927113843" tvg-id="kineko" group-title="Кино и сериалы",Кинеко
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/kineko.jpg" tvg-id="kineko" group-title="Кино и сериалы",Кинеко
 http://188.113.190.15/57/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5f/Blockbaster_2021.svg/revision/latest?cb=20210812081950&path-prefix=ru" tvg-id="blokbaster-hd" group-title="Кино и сериалы", Блокбастер HD
+#EXTINF:-1 tvg-logo="" group-title="Кино и сериалы", Блокбастер HD
 http://stream-msk-01.ott.tricolor.tv/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcwOTQ2NjM2OCwiaHdpZCI6ImViNGUxZTk3Mzc2OTRlYTc3ZjExZDIyZjhkNTJiY2ZlZTI1Yjc2YzQyY2I0NDEzMDZiMDNlNWExYTFiZmFhMWMiLCJsYXN0X3JlcV9kYXRlIjoxNzA4ODYxNTY4LCJzZXNzaW9uX2lkIjoiNTYwNjI3ZGYxOGYxOTM0N2Q0ZTU0ZDVhNTBjYzM3ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bc0v7rOA71m1BGCU5DEd59x5Jt8JV_xitkahKOabI3k
 
-#EXTINF:-1 tvg-logo="tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5f/Blockbaster_2021.svg/revision/latest?cb=20210812081950&path-prefix=ru" group-title="Кино и сериалы", Остросюжетное HD
+#EXTINF:-1 tvg-logo="" group-title="Кино и сериалы", Остросюжетное HD
 http://stream-msk-03.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcwOTQ2NjM2OCwiaHdpZCI6ImViNGUxZTk3Mzc2OTRlYTc3ZjExZDIyZjhkNTJiY2ZlZTI1Yjc2YzQyY2I0NDEzMDZiMDNlNWExYTFiZmFhMWMiLCJsYXN0X3JlcV9kYXRlIjoxNzA4ODYxNTY4LCJzZXNzaW9uX2lkIjoiNTYwNjI3ZGYxOGYxOTM0N2Q0ZTU0ZDVhNTBjYzM3ODgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bc0v7rOA71m1BGCU5DEd59x5Jt8JV_xitkahKOabI3k
 
 #EXTINF:-1 group-title="Кино и сериалы", Премиальное HD

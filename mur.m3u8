@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Кино и сериалы",.sci-fi [1]
+#EXTINF:-1 group-title="Кино и сериалы",.sci-fi
 http://185.37.150.40:8092/Axn_skyfi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",VIJU+ PREMIERE HD

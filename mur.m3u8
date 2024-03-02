@@ -117,10 +117,10 @@ https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/logotip_siti_ehdem-kinoehkshen2.png" tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png",Сити Эдем - КиноЭкшен
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/logotip_siti_ehdem-kinoehkshen2.png" group-title="Кинозалы",Сити Эдем - КиноЭкшен
 https://v2.catcast.tv/content/41333/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/logotip_kinomostika.png" tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png",Сити Эдем - КиноМистика
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/logotip_kinomostika.png" group-title="Кинозалы",Сити Эдем - КиноМистика
 https://v2.catcast.tv/content/40783/index.m3u8
 
 

@@ -16,13 +16,13 @@ http://188.113.190.15/203/tracks-v1a1/index.m3u8
 https://woobl.ru/hls987/Fox_Life.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/A1.png" group-title="Кино и сериалы",Amedia 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/A1.webp" group-title="Кино и сериалы",Amedia 1 HD
 http://185.37.150.40:8092/Amedia1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/A2.png" group-title="Кино и сериалы",Amedia 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/A2.webp" group-title="Кино и сериалы",Amedia 2 HD
 http://185.37.150.40:8092/Amedia2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Hit.png" group-title="Кино и сериалы",Amedia Hit HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Hit.webp" group-title="Кино и сериалы",Amedia Hit HD
 http://92.242.110.52:9835/udp/238.1.11.3:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/amedia_premium_hd.gif" group-title="Кино и сериалы",Amedia Premium HD

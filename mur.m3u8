@@ -3,10 +3,6 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/sci-fi.png" group-title="Кино и сериалы",.sci-fi
 http://185.37.150.40:8092/Axn_skyfi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/viju_pem.png" group-title="Кино и сериалы",VIJU+ ТЕСТ
-http://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcxMDA1OTQ1MCwiaHdpZCI6IjBjNjFhZGM2NGJjYzU0Y2Y5YmExZGZjNzAxNzQ3YmU0M2UyMGY2YWQ5NDIyNTEzMzE2YTdlODYyNTVjY2NlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzA5NDU0NjUwLCJzZXNzaW9uX2lkIjoiNDUyYTYxYjg2YzkyM2I3NzlkNTlkMzQyZjk4NTBhZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.j_y4zJUzwUuHb8Rwn0AXeif_Yx7pXPVmH4OvRK2gvD4
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/viju_pem.png" group-title="Кино и сериалы",VIJU+ PREMIERE HD
 http://188.113.190.15/201/tracks-v1a1/index.m3u8
 
@@ -112,6 +108,12 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/FAN_HD.png" group-title="Кино и сериалы", FAN HD
 http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcxMDA1OTQ1MCwiaHdpZCI6IjBjNjFhZGM2NGJjYzU0Y2Y5YmExZGZjNzAxNzQ3YmU0M2UyMGY2YWQ5NDIyNTEzMzE2YTdlODYyNTVjY2NlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzA5NDU0NjUwLCJzZXNzaW9uX2lkIjoiNDUyYTYxYjg2YzkyM2I3NzlkNTlkMzQyZjk4NTBhZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.j_y4zJUzwUuHb8Rwn0AXeif_Yx7pXPVmH4OvRK2gvD4
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/KinoJam1.png" group-title="Кино и сериалы",Kinojam 1 HD
+http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcxMDA1OTQ1MCwiaHdpZCI6IjBjNjFhZGM2NGJjYzU0Y2Y5YmExZGZjNzAxNzQ3YmU0M2UyMGY2YWQ5NDIyNTEzMzE2YTdlODYyNTVjY2NlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzA5NDU0NjUwLCJzZXNzaW9uX2lkIjoiNDUyYTYxYjg2YzkyM2I3NzlkNTlkMzQyZjk4NTBhZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.j_y4zJUzwUuHb8Rwn0AXeif_Yx7pXPVmH4OvRK2gvD4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/KinoJam2.png" group-title="Кино и сериалы",Kinojam 2 HD
+http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcxMDA1OTQ1MCwiaHdpZCI6IjBjNjFhZGM2NGJjYzU0Y2Y5YmExZGZjNzAxNzQ3YmU0M2UyMGY2YWQ5NDIyNTEzMzE2YTdlODYyNTVjY2NlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzA5NDU0NjUwLCJzZXNzaW9uX2lkIjoiNDUyYTYxYjg2YzkyM2I3NzlkNTlkMzQyZjk4NTBhZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.j_y4zJUzwUuHb8Rwn0AXeif_Yx7pXPVmH4OvRK2gvD4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/23.png" group-title="Кино и сериалы",Еврокино
 http://109.239.208.82:80/eurokino/index.m3u8
 
@@ -171,7 +173,6 @@ http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/NickToons.png" group-title="Детские",Nicktoons
-group-title="Kids",Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8
 
 

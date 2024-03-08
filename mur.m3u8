@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/sci-fi.png" group-title="Ф",.Ага
-http://185.162.11.172/download/6323_original.mp4?transformery-voshozhdenie-zverej
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/sci-fi.png" group-title="Кино и сериалы",.sci-fi
 http://185.37.150.40:8092/Axn_skyfi/tracks-v1a1/mono.m3u8
 

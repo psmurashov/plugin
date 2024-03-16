@@ -13,7 +13,7 @@ http://188.113.190.15/202/tracks-v1a1/index.m3u8
 http://188.113.190.15/203/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/FOX_HD_PL.png" group-title="Кино и сериалы",Fox Life
-https://woobl.ru/hls987/Fox_Life.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/ba/A1_%28%D1%81_26.12.2022%29.png/revision/latest/scale-to-width-down/1000?cb=20230206143713&path-prefix=ru" group-title="Кино и сериалы",Amedia 1 HD
 http://185.37.150.40:8092/Amedia1/playlist.m3u8

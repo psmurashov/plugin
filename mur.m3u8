@@ -135,6 +135,9 @@ https://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/sts_kids.png" group-title="Детские",СТС Kids
 http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/sts_kids.png" group-title="Детские",СТС Kids(резерв)
+https://m3url.ru/Monster_F2790C2E7884ABD.m3u
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/2x2_orig.png" group-title="Детские", 2x2
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -174,6 +177,33 @@ https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/NickToons.png" group-title="Детские",Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/nickjr.png" group-title="Детские",Nick Jr
+http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/114/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Cartoon.png" group-title="Детские",Cartoon Network
+http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/143/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Cartoonito.png" group-title="Детские",Cartoonito
+http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/723/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/superHiro.png" group-title="Детские",СуперГерои
+http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/1041/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/tiptop.png" group-title="Детские",ТипТоп HD
+http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/14007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/Bunny.png" group-title="Детские",Bunny HD
+http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/14239/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/CineMan.png" group-title="Детские",CineMan
+http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/11002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/MSToonsHD.png" group-title="Детские",MS Toons HD
+http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/15138/index.m3u8
+
+
+
 
 
 

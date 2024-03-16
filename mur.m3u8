@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/sci-fi.png" group-title="Кино и сериалы",.sci-fi
-http://185.37.150.40:8092/Axn_skyfi/tracks-v1a1/mono.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000134.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/viju_pem.png" group-title="Кино и сериалы",VIJU+ PREMIERE HD
 http://188.113.190.15/201/tracks-v1a1/index.m3u8
@@ -133,10 +133,10 @@ https://v2.catcast.tv/content/40783/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/sts_kids.png" group-title="Детские",СТС Kids
-http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/2001/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/sts_kids.png" group-title="Детские",СТС Kids (резерв)
 http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/sts_kids.png" group-title="Детские",СТС Kids(резерв)
+http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/2001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/2x2_orig.png" group-title="Детские", 2x2
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -205,8 +205,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/11002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/MSToonsHD.png" group-title="Детские",MS Toons HD
 http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/15138/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/MSToonsHD.png" group-title="Детские",MS Toons HD0
+http://rhsbjv7k.tvclub.xyz/iptv/WXR5KQQTP3GSPP/15138/index.m3u8
 
 
 

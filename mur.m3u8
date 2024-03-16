@@ -130,7 +130,8 @@ https://v2.catcast.tv/content/41333/index.m3u8
 https://v2.catcast.tv/content/40783/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2011.png" group-title="Детские",Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/sts_kids.png" group-title="Детские",СТС Kids
 http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
@@ -177,6 +178,8 @@ https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/NickToons.png" group-title="Детские",Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/psmurashov/plugin/main/img/nickjr.png" group-title="Детские",Nick Jr
 http://rhsbjv7k.tvclub.xyz/iptv/7BD7HSC4MEQPC9/114/index.m3u8

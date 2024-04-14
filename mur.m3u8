@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", 🔹TELEGRAM🔹 HTTPS://T.ME/IPTV_SHARED🔹
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 13.04.2024г.
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/video_800x450_avc1/variant.m3u8

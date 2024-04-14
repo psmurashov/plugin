@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", 🔹TELEGRAM🔹 HTTPS://T.ME/IPTV_SHARED🔹
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 12.04.2024г. (Prokop TV)
+#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 13.04.2024г.
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
@@ -284,19 +284,19 @@ http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 http://45.15.43.12:80/futbol1/video.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
-https://stream-msk-12.ott.tricolor.tv/dtv/id534_MSKSG-PVR-1--Match_Futbol1_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDIxOTAwODUyMDcxNSIsImV4cCI6MTcxMzEyNjUzNiwiaHdpZCI6IjM4ZDMxMWM3MmI1M2YzNTEwYzRmMTg0YWViNjlmYzlhNjliZjEzOTI0MTI0Nzc3N2RjZTAwYjA0NTMwYTk2MTEiLCJsYXN0X3JlcV9kYXRlIjoxNzEyNTIxNzM2LCJzZXNzaW9uX2lkIjoiNDE4YmFjYjhlMTU0ZDg5NzdlZDg0MmI3MGQ2ZGVjYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.huY9_ODbHF8HrDcQcK3Nku4hOby5rB8nqN5qA2VNBD4
+http://194.26.229.213/matc-futbol-1/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
 http://45.15.43.12:80/futbol2/video.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
-https://stream-msk-09.ott.tricolor.tv/dtv/id535_MSKSG-PVR-1--Match_Futbol2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDIxOTAwODUyMDcxNSIsImV4cCI6MTcxMzEyNjUzNiwiaHdpZCI6IjM4ZDMxMWM3MmI1M2YzNTEwYzRmMTg0YWViNjlmYzlhNjliZjEzOTI0MTI0Nzc3N2RjZTAwYjA0NTMwYTk2MTEiLCJsYXN0X3JlcV9kYXRlIjoxNzEyNTIxNzM2LCJzZXNzaW9uX2lkIjoiNDE4YmFjYjhlMTU0ZDg5NzdlZDg0MmI3MGQ2ZGVjYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.huY9_ODbHF8HrDcQcK3Nku4hOby5rB8nqN5qA2VNBD4
+http://194.26.229.213/matc-futbol-2/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
 http://45.15.43.12:80/futbol3/video.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
-https://stream-msk-11.ott.tricolor.tv/dtv/id536_MSKSG-PVR-1--Match_Futbol3_HD/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDIxOTAwODUyMDcxNSIsImV4cCI6MTcxMzEyNjUzNiwiaHdpZCI6IjM4ZDMxMWM3MmI1M2YzNTEwYzRmMTg0YWViNjlmYzlhNjliZjEzOTI0MTI0Nzc3N2RjZTAwYjA0NTMwYTk2MTEiLCJsYXN0X3JlcV9kYXRlIjoxNzEyNTIxNzM2LCJzZXNzaW9uX2lkIjoiNDE4YmFjYjhlMTU0ZDg5NzdlZDg0MmI3MGQ2ZGVjYTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.huY9_ODbHF8HrDcQcK3Nku4hOby5rB8nqN5qA2VNBD4
+http://194.26.229.213/matc-futbol-3/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",КХЛ ТВ
 http://stream-msk-11.ott.tricolor.tv/dtv/id540_MSKSG-PVR-1--KHL/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODU1MTM3NSIsImV4cCI6MTcxMzEyNzM2NywiaHdpZCI6IjQxZTI3YmIwMDQzMjI1ZDNhMTQ1YTI3ZjAxZWI4Mzk3YzdhMmE0ZmI1ZmIwYzNlYmMwZmMyZjJjYmEwYzE4OTciLCJsYXN0X3JlcV9kYXRlIjoxNzEyNTIyNTY3LCJzZXNzaW9uX2lkIjoiMTkzYjU4NmM4Mjg5MTU1NzBhNmI3YTM2NDlkZWY2N2MiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.rZrc3tfZidmaMBBGPvSGc5dz6pTf3fFFiLD0un2oOcs
@@ -657,7 +657,7 @@ https://bkm.beetv.kz/btv/live/hls/000004609.m3u8
 https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка
-http://109.239.208.82:80/ohota/index.m3u8
+http://188.113.190.15/69/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные",Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
@@ -1077,69 +1077,6 @@ http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/44/d4cbb0e402c1a33e476b4bc281fdde44.png" group-title="Кинозалы", Prokop TV Detektiv
-http://194.26.229.213/Prokop-TV-Detektiv-HD/video.m3u8
-
-#EXTINF:-1  tvg-logo="http://i122.fastpic.org/big/2023/0917/30/9af02c98abf800eac57142edb11b8c30.png" group-title="Кинозалы",Prokop TV Kids
-http://194.26.229.213/Prokop-TV-Kids-HD/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0409/85/5129c183435cb86c33de89406d857c85.png" group-title="Кинозалы",Prokop TV Масяня
-http://194.26.229.213/Prokop-TV-masyana/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/a2/114d2b1db736360149b03b9cd32548a2.png" group-title="Кинозалы", Prokop TV Hip-Hop
-http://194.26.229.213/Prokop-TV-Hip-Hop/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/a4/affe2d5388205a9341508881f4674da4.png" group-title="Кинозалы", Prokop TV Сказки СССР
-http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/e4/7d5a2248d949a7f1f87305ab041082e4.png" group-title="Кинозалы",Prokop TV Show
-http://194.26.229.213/Prokop-TV-Show-HD/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/4c/b8bd4bd4578598c7fdbf41ef6ef3fd4c.png" group-title="Кинозалы",Prokop TV Serial HD
-http://194.26.229.213/Prokop-TV-Serial-HD/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/f2/1854aab247c8fbb220fe6ea4e901a2f2.png" group-title="Кинозалы",Prokop TV UA
-http://194.26.229.213/Prokop-TV-HD-UA/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/30/9af02c98abf800eac57142edb11b8c30.png" group-title="Кинозалы",Prokop TV Criminal HD
-http://194.26.229.213/Prokop-TV-Criminal-HD/video.m3u8 
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/3b/b88a1ec5a53f6fc6e110136b7b2c433b.png" group-title="Кинозалы",Prokop TV Cinema 4K
-http://194.26.229.213/Prokop-TV-Cinema-4K/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/04/7e8afa4363951d281a88318d395ff504.png" group-title="Кинозалы",Prokop TV Kung Fu
-http://194.26.229.213/Prokop-TV-Kung-Fu/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/e0/44f37411326342f50a8be1b45a8ad4e0.png" group-title="Кинозалы",Prokop TV Comedy HD
-http://194.26.229.213/Prokop-TV-Comedy-HD/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/d3/a6220f54ab0e545be9f1a78b98a23ed3.png" group-title="Кинозалы",Prokop TV Docu
-http://194.26.229.213/Prokop-TV-Docu-HD/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/31/ad2b8073cf66935ec0f26e0e4140d131.png" group-title="Кинозалы",Prokop TV Horror HD
-http://194.26.229.213/Prokop-TV-Horror-HD/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/fe/7b9c31cfefae578e668bdb69d94a58fe.png" group-title="Кинозалы",Prokop TV Fantazy HD
-http://194.26.229.213/Prokop-TV-Fantazy-HD/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0409/c3/c3937fbbe17e4e2a0543d46536580cc3.png" group-title="Кинозалы",Prokop TV The Simpsons HD UA
-http://194.26.229.213/Prokop-TV-The-Simpsons-HD-UA/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/89/eea61176da3c5875c47907c80cf35e89.png" group-title="Кинозалы",Prokop TV Netflix HD
-http://194.26.229.213/Prokop-TV-Netflix-HD/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/4c/4514ed8e59a4ecb15e0555a1476e904c.png" group-title="Кинозалы",Prokop TV Вторая мировая
-http://194.26.229.213/Prokop-TV-2-mirovaya/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/aa/31968391f592a391c0deff3bdbb99aaa.png" group-title="Кинозалы",Prokop TV Cinema 60 FPS
-http://194.26.229.213/Prokop-TV-60-FPS/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/5e/87e6bad72a2c46667b2d4895cd58d75e.png" group-title="Кинозалы",Prokop TV History HD
-http://194.26.229.213/Prokop-TV-History-HD/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0917/54/a09cedf12a02721cb87829b8c637ca54.png" group-title="Кинозалы",Prokop TV Music
-http://194.26.229.213/Prokop-TV-Music/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-1filmax.jpg?itok=cAN6QlYt" tvg-id="no_epg_cinema" group-title="Кинозалы", 1FILMAX
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/204708.m3u8
@@ -1156,6 +1093,9 @@ https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0627/26/3384af4c78dc084b8abdf1a2153d3f26.png" tvg-id="no_epg_cinema" group-title="Кинозалы", VHS-ка
 http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
+
+#EXTINF:-1 tvg-logo="https://epgx.site/p/cosmostv.png" tvg-id="cinema" group-title="Кинозалы", Cinema Космос ТВ
+http://158.101.222.193:88/vesti/play.php?channel_id=48
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", ЭфирА NET HD
 #EXTVLCOPT:http-user-agent=SmartTV
